@@ -16,6 +16,6 @@ pip install pygame
 在html文件夹下中的main.html即是生成的网页
 
 ## 效果
-![](image/效果1.png)
-![](image/效果2.png)
+![](https://github.com/mepeichun/six_nine/blob/master/image/效果1.PNG)
+![](https://github.com/mepeichun/six_nine/blob/master/image/效果2.PNG)
 
