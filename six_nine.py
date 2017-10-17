@@ -62,4 +62,4 @@ def generate_html(from_someone, to_someone, words, title="love"):
 if __name__ == '__main__':
 
     # generate_html(from_someone, to_someone, words)
-    generate_html("Peichun", "Elisa", "Elisa, I love you!")
+    generate_html("Peichun", "You", "Nice to meet you!", title="hello")
