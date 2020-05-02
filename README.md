@@ -7,6 +7,10 @@ Using a simple python script to generate an HTML page with hidden infomation.
 
 * Font file: please add an font to the working space, you can choose any font you like.
 
+In my example, I copy the font 'MSYH' (a font for Chinese and English) in my working space.
+
+Just copy the font from the Windows OS 'C:\Windows\Fonts\微软雅黑\msyh.ttc'
+
 注意将windows下的“微软雅黑”字体加到工作目录下，或者你自己选择别的字体，谢谢！
 
 我的是在C:\Windows\Fonts\微软雅黑\msyh.ttc
