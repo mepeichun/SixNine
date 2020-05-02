@@ -1,8 +1,11 @@
-# six_nine
-用python生成简单的html网页
+# SixNine
+Using a simple python script to generate an HTML page with hidden infomation.
 
-## 准备工作
-pip install pygame
+## Requirement
+
+* Dependence: pip install pygame
+
+* Font file: please add an font to the working space, you can choose any font you like.
 
 注意将windows下的“微软雅黑”字体加到工作目录下，或者你自己选择别的字体，谢谢！
 
